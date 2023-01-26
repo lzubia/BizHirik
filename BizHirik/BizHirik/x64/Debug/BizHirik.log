@@ -1,0 +1,20 @@
+﻿  jokatu.c
+C:\Users\zaarr\Desktop\BizHirik\BizHirik\BizHirik\jokatu.c(123,27): warning C4047: 'función': 'char *const ' es distinto en los niveles de direccionamiento indirecto de 'char *[50]'
+C:\Users\zaarr\Desktop\BizHirik\BizHirik\BizHirik\jokatu.c(123,18): warning C4024: 'snprintf': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\zaarr\Desktop\BizHirik\BizHirik\BizHirik\jokatu.c(124,39): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'char *[50]'
+C:\Users\zaarr\Desktop\BizHirik\BizHirik\BizHirik\jokatu.c(124,30): warning C4024: 'textuaIdatzi': tipos distintos para el parámetro formal y el parámetro real 3
+C:\Users\zaarr\Desktop\BizHirik\BizHirik\BizHirik\jokatu.c(129,26): warning C4047: 'función': 'char *const ' es distinto en los niveles de direccionamiento indirecto de 'char *[50]'
+C:\Users\zaarr\Desktop\BizHirik\BizHirik\BizHirik\jokatu.c(129,22): warning C4024: 'snprintf': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\zaarr\Desktop\BizHirik\BizHirik\BizHirik\jokatu.c(133,26): warning C4047: 'función': 'char *const ' es distinto en los niveles de direccionamiento indirecto de 'char *[50]'
+C:\Users\zaarr\Desktop\BizHirik\BizHirik\BizHirik\jokatu.c(133,22): warning C4024: 'snprintf': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\zaarr\Desktop\BizHirik\BizHirik\BizHirik\jokatu.c(136,34): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'char *[50]'
+C:\Users\zaarr\Desktop\BizHirik\BizHirik\BizHirik\jokatu.c(136,30): warning C4024: 'textuaIdatzi': tipos distintos para el parámetro formal y el parámetro real 3
+C:\Users\zaarr\Desktop\BizHirik\BizHirik\BizHirik\jokatu.c(141,59): warning C4020: 'SDL_RenderCopy': hay demasiados parámetros reales
+C:\Users\zaarr\Desktop\BizHirik\BizHirik\BizHirik\jokatu.c(293,22): warning C4244: '*=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\zaarr\Desktop\BizHirik\BizHirik\BizHirik\jokatu.c(297,22): warning C4244: '*=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\zaarr\Desktop\BizHirik\BizHirik\BizHirik\jokatu.c(393,21): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\zaarr\Desktop\BizHirik\BizHirik\BizHirik\jokatu.c(445,50): warning C4020: 'SDL_RenderCopy': hay demasiados parámetros reales
+C:\Users\zaarr\Desktop\BizHirik\BizHirik\BizHirik\jokatu.c(487,52): warning C4020: 'SDL_RenderCopy': hay demasiados parámetros reales
+C:\Users\zaarr\Desktop\BizHirik\BizHirik\BizHirik\jokatu.c(539,24): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\zaarr\Desktop\BizHirik\BizHirik\BizHirik\jokatu.c(267): warning C4716: 'azpimenuaMarraztu': debe devolver un valor
+  BizHirik.vcxproj -> C:\Users\zaarr\Desktop\BizHirik\BizHirik\x64\Debug\BizHirik.exe
