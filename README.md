@@ -30,7 +30,7 @@ Instalatzeko jarraibideak
 
 Instalazioa
 
-Lehenik eta behin GitHub (https://github.com/mgallastegi/BizHirik) erabiliz jokoaren konprimatua deskargatu.
+Lehenik eta behin GitHub (https://github.com/lzubia/BizHirik) erabiliz jokoaren konprimatua deskargatu.
 
 Hori egin duzunean konprimatua zabaldu eta bertan dauden eduki guztia nahi duzun karpetan utzi. Egokiena eduki guztia karpeta huts batean jartzea da arazoak edukitzeko aukerak ez egoteko.
 
