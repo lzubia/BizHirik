@@ -5,7 +5,7 @@ BizHirik Eraiki Zure Hiria v1.00                                     Urtarrila 2
 README.TXT
 ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
 
-Ezkerrik asko BizHirik jokoa probatzearren!
+Eskerrik asko BizHirik jokoa probatzearren!
 
 ===============================================================================
 
@@ -32,9 +32,9 @@ Instalazioa
 
 Lehenik eta behin GitHub (https://github.com/lzubia/BizHirik) erabiliz jokoaren konprimatua deskargatu.
 
-Hori egin duzunean konprimatua zabaldu eta bertan dauden eduki guztia nahi duzun karpetan utzi. Egokiena eduki guztia karpeta huts batean jartzea da arazoak edukitzeko aukerak ez egoteko.
+Hori egin duzunean konprimatua zabaldu eta bertan dagoen eduki guztia nahi duzun karpetan utzi. Egokiena eduki guztia karpeta huts batean jartzea da arazoak edukitzeko aukerak ez egoteko.
 
-Aurreko dena eginda BizHirik.exe bilatu klik egin eta jokatzen hazi.
+Aurreko dena eginda BizHirik.exe bilatu klik egin eta jokatzen hasi.
 
 ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
 
@@ -51,7 +51,7 @@ Pantaila/Performancearen konfigurazioa
 Ezarpen grafikoek eragin zuzena izan dezakete jokoaren oroimenean. Zure kasuan...
 ordenagailuak ez du RAM memoria, eta ezarpen horiek horren arabera jaitsi beharko lirateke.
 
-Badira bideo-txartelen gidari batzuk objektuak uxatzea eta desagertzea eragin dezaketenak. Garrantzitsua da eskuragarri dauden azken gidariak instalatuta daudela ziurtatzea.
+Badira bideo-txartelen gidari batzuk objektuak desagertzea eragin dezaketenak. Garrantzitsua da eskuragarri dauden azken gidariak instalatuta daudela ziurtatzea.
 
 ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
 Ezarpen optimoak
